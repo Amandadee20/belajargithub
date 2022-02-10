@@ -1,1 +1,2 @@
 coba coba add file baru ke branch development
+sekarang mau coba solve conflict
